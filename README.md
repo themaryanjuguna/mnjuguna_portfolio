@@ -3,6 +3,7 @@
 **by Maryanne Njuguna**
 
 ## Project Description
+Welcome to my portfolio. Here you will have nothing but a glimpse of creative journey, the  and the end product. works that I have been able to accomplish. Like what you see? Let us work together.
 
 ## Setup instructions
 - Clone this repository to a location in your file system. `git clone https://github.com/themaryanjuguna/mnjuguna_portfolio.git
