@@ -1,7 +1,10 @@
 body{
     background: #e0e2ff;
 }
-
+img{
+    width: 300px;
+    box-sizing: border-box;
+}
 h1{
     color: blue;
 }
@@ -17,6 +20,7 @@ p {
 
 .home{
     background: mediumseagreen;
+    vertical-align: middle;
 }
 
 
