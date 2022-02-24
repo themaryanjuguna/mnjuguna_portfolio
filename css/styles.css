@@ -15,28 +15,35 @@ p {
 
 .menu{
     background: yellowgreen;
+    height: 50px;
 }
 
 
 .home{
     background: mediumseagreen;
     vertical-align: middle;
+    height: 300px;
 }
 
 
 .about{
     background: brown;
+    height: 600px;
 }
 
 
 .projects{
     background: yellowgreen;
+    height: 300px;
 }
 
 .contacts{
     background: darkorchid;
+    height: 300px;
+
 }
 
 .footer{
     background: darkorchid;
+    height: 50px;
 }
