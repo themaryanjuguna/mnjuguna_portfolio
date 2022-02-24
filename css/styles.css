@@ -5,7 +5,7 @@ body{
 }
 img{
     width: 300px;
-    box-sizing: border-box;
+    padding: 50px;
     float: right;
 }
 h1{
@@ -13,15 +13,13 @@ h1{
 }
 
 p {
-    color: #202020
+    color: #eeddde
 }
 
-.menu{
-    background: yellowgreen;
 }
 .home{
-    background: mediumseagreen;
     align-items: center;
+    color: black;
 
 }
 
