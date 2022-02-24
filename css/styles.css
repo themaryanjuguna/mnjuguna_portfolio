@@ -1,9 +1,38 @@
 body{
     background: #e0e2ff;
 }
+
 h1{
     color: blue;
 }
+
 p {
     color: red;
+}
+
+.menu{
+    background: yellowgreen;
+}
+
+
+.home{
+    background: mediumseagreen;
+}
+
+
+.about{
+    background: brown;
+}
+
+
+.projects{
+    background: yellowgreen;
+}
+
+.contacts{
+    background: darkorchid;
+}
+
+.footer{
+    background: darkorchid;
 }
