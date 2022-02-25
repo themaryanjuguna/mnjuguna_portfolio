@@ -21,11 +21,9 @@ h1{
     color: #fff;
 }
 .about{
-    background: rgb(65, 63, 63);
-    height: 400px;
-    padding: 30px;
-
+    height: 400px; 
 }
+
 .skills{
     background: rgb(29, 29, 29);
     color: #fff;
@@ -44,8 +42,9 @@ h1{
 
 .contacts{
     background: rgb(0, 0, 0);
-    height: 500px;
+    height: 550px;
     color: #fff;
+    padding-bottom: 30px;
 }
 
 .col-6{
