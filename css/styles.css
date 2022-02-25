@@ -26,12 +26,10 @@ p {
     height: 300px;
 }
 
-
 .about{
     background: brown;
     height: 400px;
 }
-
 
 .projects{
     background: yellowgreen;
@@ -49,8 +47,8 @@ p {
 
 .contacts{
     background: darkorchid;
-    height: 200px;
 }
+
 .col-lg-6{
     height: 500px;
 }
