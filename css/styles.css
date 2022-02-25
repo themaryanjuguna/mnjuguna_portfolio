@@ -49,10 +49,9 @@ p {
 
 }
 
-.footer{
+.contacts{
     background: darkorchid;
-    height: 100px;
-    margin-top: 20px;
+    height: 200px;
 }
 .col-lg-6{
     height: 500px;
