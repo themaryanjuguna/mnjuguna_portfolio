@@ -1,6 +1,5 @@
 body{
     background: #e0e2ff;
-<<<<<<< HEAD
     width: 100%;
     height: 3200px;
 }
@@ -13,19 +12,16 @@ h1{
     color: rgb(43, 43, 43);
 }
 
-p {
-    color: #eeddde
-}
-
-}
 .home{
     align-items: center;
     color: black;
 
 }
-
+.button a{
+    color: #fff;
+}
 .about{
-    background: brown;
+    background: rgb(65, 63, 63);
     height: 400px;
     padding: 30px;
 
@@ -57,41 +53,3 @@ p {
     padding: 30px;
 }
 
-=======
-}
-
-h1{
-    color: blue;
-}
-
-p {
-    color: red;
-}
-
-.menu{
-    background: yellowgreen;
-}
-
-
-.home{
-    background: mediumseagreen;
-}
-
-
-.about{
-    background: brown;
-}
-
-
-.projects{
-    background: yellowgreen;
-}
-
-.contacts{
-    background: darkorchid;
-}
-
-.footer{
-    background: darkorchid;
-}
->>>>>>> html amendment
