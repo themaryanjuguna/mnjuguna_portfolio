@@ -1,7 +1,7 @@
 body{
     background: #e0e2ff;
     width: 100%;
-    height: 1800px;
+    height: 3200px;
 }
 img{
     width: 300px;
@@ -39,6 +39,9 @@ p {
     background: yellowgreen;
     height: 300px;
 }
+.projects img{
+    height: 300px;
+}
 
 .contacts{
     background: darkorchid;
@@ -48,7 +51,8 @@ p {
 
 .footer{
     background: darkorchid;
-    height: 50px;
+    height: 100px;
+    margin-top: 20px;
 }
 .col-lg-6{
     height: 500px;
