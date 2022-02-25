@@ -42,10 +42,12 @@ p {
 
 .contacts{
     background: rgb(0, 0, 0);
-    height: 600px;
+    height: 500px;
     color: #fff;
+    padding: 30px;
 }
 
-.col-lg-6{
+.col-6{
     height: 500px;
 }
+
