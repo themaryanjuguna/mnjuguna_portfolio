@@ -1,7 +1,14 @@
 body{
     background: #e0e2ff;
-}
 
+    width: 100%;
+    height: 3200px;
+}
+img{
+    width: 300px;
+    box-sizing: border-box;
+    float: right;
+}
 h1{
     color: blue;
 }
@@ -13,26 +20,37 @@ p {
 .menu{
     background: yellowgreen;
 }
-
-
 .home{
     background: mediumseagreen;
+    vertical-align: middle;
+    height: 300px;
 }
 
 
 .about{
     background: brown;
+    height: 400px;
 }
 
 
 .projects{
     background: yellowgreen;
+    height: 300px;
+}
+.projects img{
+    height: 300px;
 }
 
 .contacts{
     background: darkorchid;
+    height: 300px;
+
 }
 
-.footer{
+.contacts{
     background: darkorchid;
+    height: 200px;
+}
+.col-lg-6{
+    height: 500px;
 }
