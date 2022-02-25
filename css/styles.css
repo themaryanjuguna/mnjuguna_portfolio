@@ -9,11 +9,11 @@ img{
     float: right;
 }
 h1{
-    color: blue;
+    color: rgb(43, 43, 43);
 }
 
 p {
-    color: red;
+    color: #202020
 }
 
 .menu{
@@ -21,9 +21,7 @@ p {
 }
 .home{
     background: mediumseagreen;
-    vertical-align: middle;
-    height: 300px;
-    padding: 30px;
+    align-items: center;
 
 }
 
