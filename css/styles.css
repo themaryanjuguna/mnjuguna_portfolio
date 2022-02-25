@@ -34,19 +34,17 @@ p {
 .projects{
     background: yellowgreen;
     height: 300px;
+    justify-content: center;
 }
 .projects img{
     height: 300px;
+    
 }
 
 .contacts{
-    background: darkorchid;
+    background: rgb(0, 0, 0);
     height: 300px;
-
-}
-
-.contacts{
-    background: darkorchid;
+    color: #fff;
 }
 
 .col-lg-6{
