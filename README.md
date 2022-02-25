@@ -14,11 +14,17 @@ Welcome to my portfolio. Here you will have nothing but a glimpse of creative jo
 
 ## link to live site on GitHub Pages
 
-## Known Bugs
-At the moment no bugs detected however feel free to report any typos or rookie mistakes via the contacts provided below.
 
 ## Technologies Used
-HTML, CSS
+HTML, CSS, Bootstrap
+
+## Features
+- Contact Form
+
+## Dependancies
+
+## Known Bugs
+At the moment no bugs detected however feel free to report any typos or rookie mistakes via the contacts provided below.
 
 ## Support and contact details
 If they run into any issues or have questions, ideas or concerns.  Please email themaryanjuguna@gmail.com, I'll appreciate your feedback and/or suggestion. Find me on Twitter/Facebook/Instagram handles @themaryanjuguna*
