@@ -37,13 +37,12 @@ p {
     justify-content: center;
 }
 .projects img{
-    height: 300px;
-    
+    height: 300px;    
 }
 
 .contacts{
     background: rgb(0, 0, 0);
-    height: 300px;
+    height: 600px;
     color: #fff;
 }
 
