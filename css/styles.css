@@ -44,7 +44,7 @@ h1{
 }
 .portfolio{
     height: 650px;    
-    background-image: url(/img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-position: center top;
 }
 
