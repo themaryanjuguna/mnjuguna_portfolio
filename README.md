@@ -19,7 +19,7 @@ https://themaryanjuguna.github.io/mnjuguna_portfolio/
 HTML, CSS, Bootstrap
 
 ## Features
-- Contact Form
+- Validated Contact Form
 - Onepager Website
 
 ## Dependancies
