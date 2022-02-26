@@ -39,25 +39,23 @@ h1{
 .skills{
     background: rgb(29, 29, 29);
     color: #fff;
-    height: 200px;
-    padding: 30px;
-}
-.projects{
-    background: yellowgreen;
     height: 300px;
     padding: 30px;
+}
+.skills h1{
+    color: #fff;
 
 }
-.projects img{
-    height: 800px;  
-    margin: 30px;  
+.portfolio{
+    height: 600px;
+    margin: 30px;
 }
 
 .contacts{
     background: rgb(0, 0, 0);
-    height: 550px;
+    height: 500px;
     color: #fff;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 .footer{
     height: 30px;
