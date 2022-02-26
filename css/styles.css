@@ -43,8 +43,11 @@ h1{
 
 }
 .portfolio{
-    height: 600px;
-    margin: 30px;
+    height: 700px;    
+    background-image: url(/img/bg.jpg);
+}
+.portfolio img{
+    background-position-x: right;
 }
 
 .contacts{
