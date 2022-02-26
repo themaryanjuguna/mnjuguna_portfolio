@@ -12,8 +12,9 @@ body{
     font-family: futura;
 }
 img{
-    width: 300px;
+    width: 400px;
     float: right;
+    padding: 0 40px 10px 50px;
     
 }
 h1{
@@ -37,13 +38,14 @@ h1{
     color: #fff;
     height: 300px;
     padding: 30px;
+    overflow: inherit;
 }
 .skills h1{
     color: #fff;
 
 }
 .portfolio{
-    height: 700px;    
+    height: 750px;    
     background-image: url(../img/bg.jpg);
     background-size: cover;
 }
