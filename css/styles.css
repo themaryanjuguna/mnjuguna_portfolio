@@ -36,7 +36,6 @@ h1{
 .skills{
     background: rgb(29, 29, 29);
     color: #fff;
-    height: 300px;
     padding: 30px;
     overflow: inherit;
 }
@@ -45,7 +44,7 @@ h1{
 
 }
 .portfolio{
-    height: 750px;    
+    height: 700px;    
     background-image: url(../img/bg.jpg);
     background-size: cover;
 }
