@@ -13,13 +13,14 @@ Welcome to my portfolio. Here you will have nothing but a glimpse of creative jo
 - Open `index.html` on your Browser
 
 ## link to live site on GitHub Pages
-
+https://themaryanjuguna.github.io/mnjuguna_portfolio/
 
 ## Technologies Used
 HTML, CSS, Bootstrap
 
 ## Features
 - Contact Form
+- Onepager Website
 
 ## Dependancies
 
