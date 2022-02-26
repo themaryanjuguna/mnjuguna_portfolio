@@ -43,9 +43,10 @@ h1{
 
 }
 .portfolio{
-    height: 650px;    
-    background-image: url(img/bg.jpg);
-    background-position: center top;
+    height: 700px;    
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    /*background-position: center top;*/
 }
 
 .contacts{
